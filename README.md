@@ -37,7 +37,8 @@ Agrupamento por status (ex: delivered, canceled, shipped) com visualização em 
 
 **Análise de Produtos:** Ranking das categorias campeãs em faturamento, identificando setores como "cama_mesa_banho" e "beleza_saude" no topo da lista.
 
-** Principais Insights Obtidos**
+**Principais Insights Obtidos**
+
 **Dominância de Entregas:** A esmagadora maioria da receita provém de pedidos com status "entregue", garantindo a saúde operacional do faturamento.
 
 **Pico Histórico:** Novembro de 2017 foi identificado como o mês de maior faturamento, com mais de R$ 1,58 milhão em vendas.
