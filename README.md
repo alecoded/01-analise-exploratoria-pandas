@@ -43,6 +43,11 @@ Cálculo da receita total.
 
 Agrupamento por status (ex: delivered, canceled, shipped) com visualização em gráfico de barras horizontais.
 
+<img width="946" height="585" alt="image" src="https://github.com/user-attachments/assets/9b272547-55f8-4a32-9585-222bb521eb22" />
+
+*Figura 1: Receita total por status do pedido. O gráfico evidencia a dominância absoluta dos pedidos com status "entregue" (delivered), o que demonstra uma alta taxa de sucesso na conversão das vendas e garante a saúde operacional do faturamento da empresa.*
+
+
 
 **Série Temporal:** Conversão de strings para formato datetime e criação de colunas de período (Ano-Mês) para plotar a evolução mensal das vendas.
 
@@ -51,7 +56,7 @@ Agrupamento por status (ex: delivered, canceled, shipped) com visualização em 
 
 <img width="989" height="493" alt="image" src="https://github.com/user-attachments/assets/5b42c29c-d146-4ea5-9c5d-dbfc367ba3fd" />
 
-*Figura X: Ranking das 10 categorias que mais geram faturamento. Destacam-se os nichos de "cama, mesa e banho" e "beleza e saúde", evidenciando um forte apelo da plataforma para artigos de organização do lar e bens de consumo pessoal.*
+*Figura 2: Ranking das 10 categorias que mais geram faturamento. Destacam-se os nichos de "cama, mesa e banho" e "beleza e saúde", evidenciando um forte apelo da plataforma para artigos de organização do lar e bens de consumo pessoal.*
 
 
 
@@ -61,7 +66,7 @@ Agrupamento por status (ex: delivered, canceled, shipped) com visualização em 
 
 <img width="851" height="495" alt="image" src="https://github.com/user-attachments/assets/1ddb32c0-1788-407f-a76e-65bff14fa721" />
 
-*Figura 1: Histograma do Tempo de Entrega. A análise demonstra que a logística da plataforma é eficiente na maioria dos casos, com o maior volume de pedidos sendo entregue entre 5 e 12 dias. Porém, observa-se uma "cauda longa" que indica desafios com entregas mais demoradas (acima de 30 dias).*
+*Figura 3: Histograma do Tempo de Entrega. A análise demonstra que a logística da plataforma é eficiente na maioria dos casos, com o maior volume de pedidos sendo entregue entre 5 e 12 dias. Porém, observa-se uma "cauda longa" que indica desafios com entregas mais demoradas (acima de 30 dias).*
 
 
 **Dominância de Entregas:** A esmagadora maioria da receita provém de pedidos com status "entregue", garantindo a saúde operacional do faturamento.
@@ -71,14 +76,14 @@ Agrupamento por status (ex: delivered, canceled, shipped) com visualização em 
 
 <img width="860" height="512" alt="image" src="https://github.com/user-attachments/assets/b5892b6d-00da-4740-84ce-78d99a137c09" />
 
-*Figura X: Evolução do faturamento mensal. É possível observar um crescimento consistente ao longo de 2017, com um pico histórico expressivo em novembro (impacto provável da Black Friday). Após o pico, o e-commerce consolida suas vendas em um patamar superior ao longo de 2018.*
+*Figura 4: Evolução do faturamento mensal. É possível observar um crescimento consistente ao longo de 2017, com um pico histórico expressivo em novembro (impacto provável da Black Friday). Após o pico, o e-commerce consolida suas vendas em um patamar superior ao longo de 2018.*
 
 
 **Preferência de Pagamento:** Fica evidente a esmagadora preferência dos consumidores pelo cartão de crédito, que representa a imensa maioria da receita gerada na plataforma (na casa dos R$ 15 milhões), seguido de longe pelo boleto bancário. Métodos como voucher e cartão de débito têm participação financeira quase nula.
 
 <img width="947" height="583" alt="image" src="https://github.com/user-attachments/assets/1116f48e-d0d7-4dd4-8d64-40d08ddbaf15" />
 
-*Figura 4: Faturamento por método de pagamento. A forte disparidade visual reforça que a infraestrutura de pagamentos em crédito é o principal pilar financeiro da operação.*
+*Figura 5: Faturamento por método de pagamento. A forte disparidade visual reforça que a infraestrutura de pagamentos em crédito é o principal pilar financeiro da operação.*
 
 
 
