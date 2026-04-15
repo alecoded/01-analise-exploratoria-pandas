@@ -15,6 +15,8 @@ Mapear as categorias de produtos que mais contribuem para a receita da plataform
 
 Mapear a eficiência logística calculando a distribuição do tempo total de entrega (em dias) desde a compra até a chegada ao cliente.
 
+Analisar a preferência de checkout dos usuários identificando a receita gerada por cada meio de pagamento.
+
 **Tecnologias e Bibliotecas**
 Python 3.x
 
@@ -41,6 +43,8 @@ Agrupamento por status (ex: delivered, canceled, shipped) com visualização em 
 
 <img width="989" height="493" alt="image" src="https://github.com/user-attachments/assets/5b42c29c-d146-4ea5-9c5d-dbfc367ba3fd" />
 
+*Figura X: Ranking das 10 categorias que mais geram faturamento. Destacam-se os nichos de "cama, mesa e banho" e "beleza e saúde", evidenciando um forte apelo da plataforma para artigos de organização do lar e bens de consumo pessoal.*
+
 
 **Principais Insights Obtidos**
 
@@ -58,6 +62,11 @@ Agrupamento por status (ex: delivered, canceled, shipped) com visualização em 
 
 *Figura X: Evolução do faturamento mensal. É possível observar um crescimento consistente ao longo de 2017, com um pico histórico expressivo em novembro (impacto provável da Black Friday). Após o pico, o e-commerce consolida suas vendas em um patamar superior ao longo de 2018.*
 
+**Preferência de Pagamento:** Fica evidente a esmagadora preferência dos consumidores pelo cartão de crédito, que representa a imensa maioria da receita gerada na plataforma (na casa dos R$ 15 milhões), seguido de longe pelo boleto bancário. Métodos como voucher e cartão de débito têm participação financeira quase nula.
+
+<img width="947" height="583" alt="image" src="https://github.com/user-attachments/assets/1116f48e-d0d7-4dd4-8d64-40d08ddbaf15" />
+
+*Figura 4: Faturamento por método de pagamento. A forte disparidade visual reforça que a infraestrutura de pagamentos em crédito é o principal pilar financeiro da operação.*
 
 **Concentração de Receita**: O Top 5 de categorias de produtos representa uma fatia significativa do faturamento total, com destaque para artigos de uso doméstico e bem-estar.
 
