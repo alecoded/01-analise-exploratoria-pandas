@@ -22,7 +22,7 @@ Matplotlib & Seaborn: Criação de visualizações gráficas (gráficos de barra
 
 Zipfile: Extração automatizada do dataset.
 
-📈 **Etapas do Projeto**
+**Etapas do Projeto**
 Extração de Dados: Automatização da extração dos arquivos .csv a partir de um arquivo comprimido (archive.zip).
 
 Limpeza e Consolidação: Junção (merge) das tabelas de pedidos e pagamentos utilizando o order_id como chave, seguida pela integração com itens e produtos para criar uma base rica em detalhes.
@@ -37,7 +37,7 @@ Agrupamento por status (ex: delivered, canceled, shipped) com visualização em 
 
 **Análise de Produtos:** Ranking das categorias campeãs em faturamento, identificando setores como "cama_mesa_banho" e "beleza_saude" no topo da lista.
 
-**💡 Principais Insights Obtidos**
+** Principais Insights Obtidos**
 **Dominância de Entregas:** A esmagadora maioria da receita provém de pedidos com status "entregue", garantindo a saúde operacional do faturamento.
 
 **Pico Histórico:** Novembro de 2017 foi identificado como o mês de maior faturamento, com mais de R$ 1,58 milhão em vendas.
