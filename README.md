@@ -81,7 +81,5 @@ Agrupamento por status (ex: delivered, canceled, shipped) com visualização em 
 *Figura 4: Faturamento por método de pagamento. A forte disparidade visual reforça que a infraestrutura de pagamentos em crédito é o principal pilar financeiro da operação.*
 
 
-**Concentração de Receita**: O Top 5 de categorias de produtos representa uma fatia significativa do faturamento total, com destaque para artigos de uso doméstico e bem-estar.
-
 
 **Nota:** Este notebook foca na abordagem programática e estatística com Pandas. Para uma análise focada em consultas estruturadas de banco de dados, consulte o arquivo 02-analise-avancada-sqlite.ipynb.
