@@ -58,8 +58,6 @@ Agrupamento por status (ex: delivered, canceled, shipped) com visualização em 
 
 *Figura X: Evolução do faturamento mensal. É possível observar um crescimento consistente ao longo de 2017, com um pico histórico expressivo em novembro (impacto provável da Black Friday). Após o pico, o e-commerce consolida suas vendas em um patamar superior ao longo de 2018.*
 
-<img width="860" height="512" alt="image" src="https://github.com/user-attachments/assets/a19b8d40-aaea-4ddc-aeb9-334e42f647af" />
-
 
 **Concentração de Receita**: O Top 5 de categorias de produtos representa uma fatia significativa do faturamento total, com destaque para artigos de uso doméstico e bem-estar.
 
