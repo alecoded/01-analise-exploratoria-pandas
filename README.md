@@ -1,4 +1,4 @@
-**Análise Exploratória de Vendas - E-commerce Olist (Pandas) **
+**Análise Exploratória de Vendas - E-commerce Olist (Pandas)**
 
 Este projeto faz parte de um portfólio de análise de dados e foca na extração de insights e manipulação de grandes volumes de dados utilizando a biblioteca Pandas. O objetivo principal é consolidar diferentes fontes de dados para entender o desempenho financeiro e o comportamento de vendas da Olist.
 
@@ -33,7 +33,7 @@ Cálculo da receita total.
 
 Agrupamento por status (ex: delivered, canceled, shipped) com visualização em gráfico de barras horizontais.
 
-**Série Temporal: **Conversão de strings para formato datetime e criação de colunas de período (Ano-Mês) para plotar a evolução mensal das vendas.
+**Série Temporal:** Conversão de strings para formato datetime e criação de colunas de período (Ano-Mês) para plotar a evolução mensal das vendas.
 
 **Análise de Produtos:** Ranking das categorias campeãs em faturamento, identificando setores como "cama_mesa_banho" e "beleza_saude" no topo da lista.
 
